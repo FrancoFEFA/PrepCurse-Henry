@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Descripcion del primer intento de Repositorio
+Este mini proyecto es un intento de clon desde GItHub a mi pc
